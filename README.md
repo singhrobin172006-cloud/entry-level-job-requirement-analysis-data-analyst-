@@ -16,6 +16,7 @@ Technical skills demand
 Soft skills demand
 Skill combinations
 Interactive filters
+
 📈 Key Insights
 Analyzed 15.1K+ Job Listings
 3.4K+ Companies
@@ -23,6 +24,7 @@ Analyzed 15.1K+ Job Listings
 SQL and Python are the most demanded technical skills.
 Communication and Problem Solving are the most requested soft skills.
 Salary trends vary significantly across experience levels.
+
 🛠 Tools Used
 Power BI
 Python
@@ -30,6 +32,7 @@ SQL
 Excel
 Power Query
 DAX
+
 📂 Files
 Dashboard.pbix
 Dataset.csv
